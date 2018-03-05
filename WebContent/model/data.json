@@ -1,0 +1,27 @@
+{
+  "company" : {
+            "name" : "SMAX222",
+            "addr" : {
+                "flat" : 201,
+                "city" : "Hyderabad"
+            },
+            "empInfo" : [
+                  {
+                   "name" : "Govardhan",
+                   "role" : "Developer",
+                   "dept" : "SAP"                 
+                  },
+                  {
+                   "name" : "Devender",
+                   "role" : "Trainer",
+                   "dept" : "SAP"                 
+                  },
+                  {
+                   "name" : "Surender",
+                   "role" : "Call Support",
+                   "dept" : "Marketing"                 
+                  }
+            ]
+     
+  }
+}
